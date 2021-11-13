@@ -21,10 +21,10 @@ vision:
   enable: true
   section: VISION
   vision_item:
-  - title: People First
+  - title: Blockchain
     image: images/vision/vision-01.jpg
-    content: We started with a vision of creating an atmosphere where people come
-      first. Period
+    content: The blockchain is the support system of the crypto and NFT industries.
+      We know blockchain technology and companies behind it.
   - title: Cryptocurrency
     image: images/vision/vision-02.jpg
     content: We create cryptocurrencies, help people and businesses invest, and find
