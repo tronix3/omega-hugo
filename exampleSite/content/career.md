@@ -22,8 +22,7 @@ funfacts:
   funfacts_item:
   - name: Flexible hours
     icon: fa-bicycle
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: Tell us so we can tailor the schedule that fits your needs.
   - name: Free Snacks
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
