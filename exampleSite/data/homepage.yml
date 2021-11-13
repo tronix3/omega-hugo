@@ -29,10 +29,10 @@ vision:
     image: images/vision/vision-02.jpg
     content: We create cryptocurrencies, help people and businesses invest, and find
       help current crypto projects succeed.
-  - title: The Blockchain
+  - title: NFTs & Digital Assets
     image: images/vision/vision-03.jpg
-    content: Businesses must understand the impact the blockchain, cryptocurrencies,
-      and NFT's will have on business and society. It is inevitable.
+    content: Digital assets are going to be the new norm. From gaming to insurance,
+      healthcare to farming, NFTs will change the business world.
 product:
   enable: true
   section: Products
