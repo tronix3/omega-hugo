@@ -25,19 +25,14 @@ vision:
     image: images/vision/vision-01.jpg
     content: We started with a vision of creating an atmosphere where people come
       first. Period
-  - title: Technology
+  - title: Cryptocurrency
     image: images/vision/vision-02.jpg
-    content: Cryptocurrency, the blockchain, NFT's; all are new technologies that
-      will need to be integrated in future life.
+    content: We create cryptocurrencies, help people and businesses invest, and find
+      help current crypto projects succeed.
   - title: The Blockchain
     image: images/vision/vision-03.jpg
     content: Businesses must understand the impact the blockchain, cryptocurrencies,
       and NFT's will have on business and society. It is inevitable.
-  - title: Cryptocurrency
-    content: Cryptocurrency is more than a digital 'currency'. It is a new way of
-      storing value, paying for items universally, investing in yourself and others,
-      and a way to become more independent.
-    image: images/vision/vision-04.jpg
 product:
   enable: true
   section: Products
