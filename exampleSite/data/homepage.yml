@@ -38,11 +38,6 @@ vision:
       storing value, paying for items universally, investing in yourself and others,
       and a way to become more independent.
     image: images/vision/vision-04.jpg
-  - title: NFT's
-    content: Non Fungible Tokens are not just an image of an ape. They are a store
-      of value, a community, a way to own the rights to your assets in the metaverse,
-      a game, or a piece of art you own physically.
-    image: images/vision/vision-05.jpg
 product:
   enable: true
   section: Products
