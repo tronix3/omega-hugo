@@ -29,10 +29,10 @@ vision:
     image: images/vision/vision-02.jpg
     content: Technology is at the forefront of all businesses. To be proficient and
       relevant in business today, businesses have to adapt and upgrade.
-  - title: The Omega Way
+  - title: The Blockchain
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Businesses must understand the impact the blockchain, cryptocurrencies,
+      and NFT's will have on business and society. It is inevitable.
 product:
   enable: true
   section: Products
