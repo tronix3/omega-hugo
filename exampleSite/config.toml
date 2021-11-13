@@ -1,5 +1,5 @@
 baseURL = "https://bitcolabs.netlify.com"
-googleAnalytics = "G-J2YMMY9F7J"
+googleAnalytics = "<!-- Global site tag (gtag.js) - Google Analytics --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-J2YMMY9F7J\"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-J2YMMY9F7J'); </script>"
 theme = "omega"
 title = "BITCOLABS"
 [markup.goldmark.renderer]
