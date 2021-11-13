@@ -31,7 +31,7 @@ url = "contact"
 weight = 5
 [params]
 author = "Bitco Labs"
-contact_info = "Charlotte <br> North Carolina <br>"
+contact_info = "Charlotte <br> North Carolina <br> "
 description = "We help invest in cryptocurrencies, integrate businesses in the blockchain, and build NFTs."
 logo = "images/logo.png"
 logo_width = "120px"
@@ -47,6 +47,10 @@ map_center_lng = ""
 map_marker = "images/map-marker.png"
 map_position_lat = ""
 map_position_lng = ""
+[[params.social]]
+icon = ""
+link = ""
+title = ""
 [[params.social]]
 icon = "fa-facebook"
 link = "#"
@@ -64,6 +68,6 @@ icon = "fa-github"
 link = "#"
 title = "github"
 [[params.social]]
-icon = "fa-linkedin"
-link = "#"
+icon = "fa-mail"
+link = "mailto:info@bitcolabs.com"
 title = "linkedin"
