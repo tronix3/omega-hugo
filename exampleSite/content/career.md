@@ -23,10 +23,10 @@ funfacts:
   - name: Flexible hours
     icon: fa-bicycle
     content: Tell us so we can tailor the schedule that fits your needs.
-  - name: Free Snacks
+  - name: Remote Work
     icon: fa-bell-o
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: No in office gossip, no fighting over the last cup of coffee, just Crypto
+      at home!
   - name: Recreation
     icon: fa-microchip
     content: Tight schedule, tell us so we can tailor the schedule that fits your
