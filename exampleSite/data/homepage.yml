@@ -68,6 +68,7 @@ product:
       that are successful and provide value to you and your fans. Contact us for more
       details.
     project_url: "#"
+    image: images/product/product-03.jpg
 contact:
   enable: true
   section: CONTACT US
