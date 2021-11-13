@@ -27,10 +27,10 @@ funfacts:
     icon: fa-bell-o
     content: No in office gossip, no fighting over the last cup of coffee, just Crypto
       at home!
-  - name: Recreation
+  - name: Technology
     icon: fa-microchip
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: Be an early part of the most influential piece of technology since the
+      internet.
   - name: 5 Working Days
     icon: fa-plug
     content: Tight schedule, tell us so we can tailor the schedule that fits your
