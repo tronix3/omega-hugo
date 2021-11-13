@@ -68,6 +68,6 @@ icon = "fa-github"
 link = "#"
 title = "github"
 [[params.social]]
-icon = "fa-mail"
+icon = "fa-envelope"
 link = "mailto:info@bitcolabs.com"
 title = "linkedin"
