@@ -43,11 +43,6 @@ vision:
       of value, a community, a way to own the rights to your assets in the metaverse,
       a game, or a piece of art you own physically.
     image: images/vision/vision-05.jpg
-  - title: Business
-    image: images/vision/vision-06.jpg
-    content: The blockchain will be integrated in most successful businesses in 5-10
-      years. Insurance, marketing, legal, healthcare; all will benefit from the upgraded
-      technology.
 product:
   enable: true
   section: Products
