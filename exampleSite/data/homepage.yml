@@ -49,15 +49,15 @@ vision:
 product:
   enable: true
   section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  title: Some Of Our Best Services
+  content: 'See the innovation that has come through. As an advancement company, the
+    goal is to continuously find areas to help business push forward. '
   product_item:
-  - title: Ecosystem
+  - title: Create NFT's
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: 'We can help you create your own NFT''s to launch. We are experts in
+      creating the assets, marketing, launching, and continuing to provide value after
+      launch. This ensures success with the project. '
     project_url: "#"
   - title: Objects
     image: images/product/product-02.jpg
