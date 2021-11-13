@@ -79,12 +79,12 @@ product:
 contact:
   enable: true
   section: CONTACT US
-  title: reach us
+  title: Reach Out
   image: images/map-bg.jpg
   content: The dawn of the digital age and the need for a significant leap forward
     is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
-    can propel your business.
+    new age with the right mindset. Facebook has made the leap; Microsoft is making
+    the change. Contact us today to see how we can help.
 call_to_action:
   enable: true
   title: Join the Omega family. <br>Click below to view the career opportunities we
