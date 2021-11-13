@@ -31,7 +31,7 @@ url = "contact"
 weight = 5
 [params]
 author = "Bitco Labs"
-contact_info = "Charlotte <br> North Carolina <br> fa-facebook"
+contact_info = "Charlotte <br> North Carolina <br>"
 description = "We help invest in cryptocurrencies, integrate businesses in the blockchain, and build NFTs."
 logo = "images/logo.png"
 logo_width = "120px"
