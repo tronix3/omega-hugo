@@ -38,18 +38,18 @@ career:
   enable: true
   title: Job Opening
   job_item:
-  - name: Android Developer
-    location: Hamburg, Germany
+  - name: Blockchain Developer
+    location: US
     form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
       to the team and clients.
     experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
+    - No experience necessary
+    - Strong knowledge of blockchain development
+    - Ability to create cryptocurrencies that do what they were designed to do
+    - 'Self-motivation: You manage your own milestones, our deadlines, and priorities'
   - name: DevOps Engineer
     location: Hamburg, Germany
     form_action: "#"
