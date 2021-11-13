@@ -1,7 +1,7 @@
 baseURL = "https://bitcolabs.netlify.com"
-googleAnalytics = ""
+googleAnalytics = "G-J2YMMY9F7J"
 theme = "omega"
-title = "OMEGA"
+title = "BITCOLABS"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
