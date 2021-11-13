@@ -31,10 +31,9 @@ funfacts:
     icon: fa-microchip
     content: Be an early part of the most influential piece of technology since the
       internet.
-  - name: 5 Working Days
+  - name: Great pay
     icon: fa-plug
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: Competitive pay and benefits
 career:
   enable: true
   title: Job Opening
