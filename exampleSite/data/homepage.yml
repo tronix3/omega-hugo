@@ -33,6 +33,10 @@ vision:
     image: images/vision/vision-03.jpg
     content: Businesses must understand the impact the blockchain, cryptocurrencies,
       and NFT's will have on business and society. It is inevitable.
+  - title: Cryptocurrency
+    content: Cryptocurrency is more than a digital 'currency'. It is a new way of
+      storing value, paying for items universally, investing in yourself and others,
+      and a way to become more independent.
 product:
   enable: true
   section: Products
