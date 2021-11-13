@@ -64,10 +64,11 @@ product:
     content: We help you create your own cryptocurrency that you can launch on many
       of the blockchains; Ethereum, Binance Smart Chain, Avalanche, and more.
     project_url: "#"
-  - title: Publisher
+  - title: Gaming
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: 'Crypto gaming and gaming NFT''s are our deep passion. Gaming will be
+      forever changed due to the blockchain, NFT''s and cryptocurrency. Imagine owning
+      the gun you worked so hard to earn and upgrade. '
     project_url: "#"
 contact:
   enable: true
