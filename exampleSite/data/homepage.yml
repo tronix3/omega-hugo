@@ -41,6 +41,11 @@ vision:
     content: Non Fungible Tokens are not just an image of an ape. They are a store
       of value, a community, a way to own the rights to your assets in the metaverse,
       a game, or a piece of art you own physically.
+  - title: Business
+    image: ''
+    content: The blockchain will be integrated in most successful businesses in 5-10
+      years. Insurance, marketing, legal, healthcare; all will benefit from the upgraded
+      technology.
 product:
   enable: true
   section: Products
