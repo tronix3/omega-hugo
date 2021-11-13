@@ -18,7 +18,7 @@ weight = 2
 name = "What We Do"
 pre = "#"
 url = "what-we-do"
-weight = 3
+weight = "3"
 [[menu.main]]
 name = "Career"
 pre = ""
@@ -30,9 +30,9 @@ pre = "#"
 url = "contact"
 weight = 5
 [params]
-author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
-description = "This is meta description"
+author = "Bitco Labs"
+contact_info = "Charlotte <br> North Carolina <br>"
+description = "We help invest in cryptocurrencies, integrate businesses in the blockchain, and build NFTs."
 logo = "images/logo.png"
 logo_width = "120px"
 preloader = true
